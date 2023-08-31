@@ -31,3 +31,7 @@ To run the app locally:
 ## Contribution:
 
 Feel free to contribute to the project by submitting pull requests or raising issues.
+
+## Credit
+
+Master modern React from beginner to advanced! Context API, React Query, Redux Toolkit, Tailwind, advanced patterns (by Jonas Schmedtmann) (Udemy)
